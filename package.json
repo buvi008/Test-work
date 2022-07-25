@@ -1,0 +1,22 @@
+{
+  "name": "test-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buvi008/Test-work.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buvi008/Test-work/issues"
+  },
+  "homepage": "https://github.com/buvi008/Test-work#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
